@@ -10,3 +10,7 @@ This repo is to serve as the central link for all the projects I will undertake 
 ## Classification Projects
 
 1. [Mushroom classification](https://github.com/Emekadavid/mushroom-classification): Mushroom eating and hunting ("shrooming") has gained popularity in recent years. But the dangers are that mushrooms can be poisonous. This project provides a model that can be used to classify a specie of mushrooms as harmless or poisonous. I believe it will help mushroom lovers worldwide. 
+
+## Data Analysis
+
+1. [Tackling The Health Crises In Africa](https://github.com/Emekadavid/Data_analysis_competition): Africa is facing a health crises. One of them is medical tourism that takes away its essential financial resources. Also, it is facing a lot of brain drain of skilled medical personnel. A comprehensive exploration of the data from 10Alytics shows that more needs to be done to solve these problems. One of the recommendations is that African governments should prioritise health care. 
