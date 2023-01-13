@@ -28,3 +28,6 @@ This repo is to serve as the central link for all the projects I will undertake 
 
 3. [Tackling The Health Crises In Africa](https://github.com/Emekadavid/Data_analysis_competition): Africa is facing a health crises. One of them is medical tourism that takes away its essential financial resources. Also, it is facing a lot of brain drain of skilled medical personnel. A comprehensive exploration of the data from 10Alytics shows that more needs to be done to solve these problems. One of the recommendations is that African governments should prioritise health care. 
 
+## Hobbies
+
+1. [Youtube Channel: Python Novice To Pro](https://www.youtube.com/@pythonnovicetopro): I love Python programming and doing SQL queries. In fact, I love everything that involves working with data. To share my love with the world, I started this Youtube channel, Python Novice to Pro channel. I hope you do subscribe to the channel and like my videos. 
