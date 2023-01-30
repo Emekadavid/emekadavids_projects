@@ -31,3 +31,5 @@ This repo is to serve as the central link for all the projects I will undertake 
 ## Hobbies
 
 1. [Youtube Channel: Python Novice To Pro](https://www.youtube.com/@pythonnovicetopro): I love Python programming and doing SQL queries. In fact, I love everything that involves working with data. To share my love with the world, I started this Youtube channel, Python Novice to Pro channel. I hope you do subscribe to the channel and like my videos. 
+
+2. [Dinma App](https://emekadavid-dinma-apps-app-tllrff.streamlit.app/): This app shows all the capabilities of ChatGPT and deployed on Streamlit. I use it to humor myself. Please, use it for entertainment.  
