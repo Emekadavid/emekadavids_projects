@@ -6,18 +6,18 @@ This repo is to serve as the central link for all the projects I will undertake 
 
 ### Regression Projects
 
-1. [Prediction of hourly bike rentals in Seoul, South Korea](https://github.com/Emekadavid/bike-rentals): Due to the dangers of climate change and global warming, many local authorities are incentivising sustainable modes of transportation like riding bicycles and using electric vehicles. This project provides a model that will help predict bike rental demand. The data set is taken from the UCI Machine Learning Repository. You can find more details about the project by clicking the repo link above. 
+> 1. [Prediction of hourly bike rentals in Seoul, South Korea](https://github.com/Emekadavid/bike-rentals): Due to the dangers of climate change and global warming, many local authorities are incentivising sustainable modes of transportation like riding bicycles and using electric vehicles. This project provides a model that will help predict bike rental demand. The data set is taken from the UCI Machine Learning Repository. You can find more details about the project by clicking the repo link above. 
 
 
 ### Classification Projects
 
-1. [Mushroom classification](https://github.com/Emekadavid/mushroom-classification): Mushroom eating and hunting ("shrooming") has gained popularity in recent years. But the dangers are that mushrooms can be poisonous. This project provides a model that can be used to classify a specie of mushrooms as harmless or poisonous. I believe it will help mushroom lovers worldwide. 
+> 1. [Mushroom classification](https://github.com/Emekadavid/mushroom-classification): Mushroom eating and hunting ("shrooming") has gained popularity in recent years. But the dangers are that mushrooms can be poisonous. This project provides a model that can be used to classify a specie of mushrooms as harmless or poisonous. I believe it will help mushroom lovers worldwide. 
 
 ## Deep Learning
 
 ### Computer Vision 
 
-1. [Kitchenware Classification](https://github.com/Emekadavid/kitchenware-classification): The kitchenware classification project was organized by Datatalks.Club on Kaggle. Participants have to classify 6 kitchen items, namely: cups, glasses, plates, spoons, forks, and knives. The model that was used for the project was tensorflow. It achieved a 96 percent accuracy rate on the classification task. 
+> 1. [Kitchenware Classification](https://github.com/Emekadavid/kitchenware-classification): The kitchenware classification project was organized by Datatalks.Club on Kaggle. Participants have to classify 6 kitchen items, namely: cups, glasses, plates, spoons, forks, and knives. The model that was used for the project was tensorflow. It achieved a 96 percent accuracy rate on the classification task. 
 
 
 ## Data Analysis
@@ -32,6 +32,6 @@ This repo is to serve as the central link for all the projects I will undertake 
 
 ## Hobbies
 
-1. [Youtube Channel: Python Novice To Pro](https://www.youtube.com/@pythonnovicetopro): I love Python programming and doing SQL queries. In fact, I love everything that involves working with data. To share my love with the world, I started this Youtube channel, Python Novice to Pro channel. I hope you do subscribe to the channel and like my videos. 
+> 1. [Youtube Channel: Python Novice To Pro](https://www.youtube.com/@pythonnovicetopro): I love Python programming and doing SQL queries. In fact, I love everything that involves working with data. To share my love with the world, I started this Youtube channel, Python Novice to Pro channel. I hope you do subscribe to the channel and like my videos. 
 
-2. [Dinma App](https://emekadavid-dinma-apps-app-tllrff.streamlit.app/): This app shows all the capabilities of ChatGPT and deployed on Streamlit. I use it to humor myself. Please, use it for entertainment.  
+> 2. [Dinma App](https://emekadavid-dinma-apps-app-tllrff.streamlit.app/): This app shows all the capabilities of ChatGPT and deployed on Streamlit. I use it to humor myself. Please, use it for entertainment.  
